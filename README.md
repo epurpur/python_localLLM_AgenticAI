@@ -52,4 +52,4 @@ With services available like ChatGPT and Copilot, you might be wondering why wou
 
 `ollama pull phi3:3.8b`
 
-`ollama pull gemma3:270m`
+`ollama pull moondream`
