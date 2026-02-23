@@ -57,3 +57,21 @@ With services available like ChatGPT and Copilot, you might be wondering why wou
 `ollama pull phi3:3.8b`
 
 `ollama pull moondream`
+
+# Agentic AI
+In the past few years, AI has increased programming efficiency and productivity hugely. Nowadays, many people are using AI Agents to write code for them. You might have used AI to help write code, which you copy and pasted into your scripts. In this process, the human is still driving the interaction. AI Agents are basically software systems that can perform tasks autonomously by orchestrating multiple step processes. If given a broad outline (prompt) of instructions and access to the required tools, it has **agency** to decide how to accomplish that task. Human oversight may or may not be involved. 
+
+## Vibe Coding
+Another software/programming paradigm in use today is **vibe coding**. Vibe Coding is AI-assisted software development where programmers use natural language prompts to guide the AI to create, debug, and refine code. The focus is on the output and functionality of the code or software (the vibe). Rather than line-by-line manual coding as had been done in the past, the developer oversees the AI-created code and then tweaks it accordingly. 
+
+## Agentic AI Tools
+[UVA Copilot](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=dbe41947dbe3f91066d98f38139619db) 
+    -Use "agent builder" feature. No installation required. This is more like retrieval augmented generation (RAG) than 
+[Replit](https://app.base44.com/)
+    - Another browser-based environment, from Base 44. No installation required!
+[Firebase Studio](https://firebase.studio/)
+    - Web-based google product, minimal installation required, build and execute everything in a web browser!
+[Github Copilot](https://github.com/features/copilot)
+    - integrate into existing programming environment (VS Code for example). Installation required. 
+[Antigravity](https://antigravity.google/)
+    - AI Agent IDE for building software projects. Installation required.
