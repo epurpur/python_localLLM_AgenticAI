@@ -25,6 +25,10 @@ Last updated 02/20/26
 ## Disclaimer
 I am not an AI expert! We are all learning and navigating this confusing landscape together. 
 
+## Install Anaconda (this will take some time)
+* [Windows](https://www.anaconda.com/download/#windows)
+* [Mac](https://www.anaconda.com/download/#macos)
+
 
 # Background Information 
 ## Large Language Models
