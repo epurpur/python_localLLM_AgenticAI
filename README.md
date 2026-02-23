@@ -66,7 +66,7 @@ Another software/programming paradigm in use today is **vibe coding**. Vibe Codi
 
 ## Agentic AI Tools
 [UVA Copilot](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=dbe41947dbe3f91066d98f38139619db) 
-    -Use "agent builder" feature. No installation required. This is more like retrieval augmented generation (RAG) than an AI Agent
+    - Use "agent builder" feature. No installation required. This is more like retrieval augmented generation (RAG) than an AI Agent
     
 [Replit](https://app.base44.com/)
     - Another browser-based environment, from Base 44. No installation required!
