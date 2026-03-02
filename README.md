@@ -1,10 +1,11 @@
 ```
 Last updated 02/20/26
 ```
-### Link to recording of this workshop
-- [View on Youtube](https://youtu.be/HMCbVW6Zj3k)
 
 # UVA Library Workshop on Python Programming with Local LLMs and Agentic AI
+
+### Link to recording of this workshop
+- [View on Youtube](https://youtu.be/HMCbVW6Zj3k)
 
 ## About Me
 * Erich Purpur: I am a Research Librarian for Science & Engineering in the Brown Science & Engineering Library. I've been at UVA since 2017.
