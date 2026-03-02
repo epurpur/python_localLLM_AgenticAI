@@ -1,6 +1,8 @@
 ```
 Last updated 02/20/26
 ```
+### Link to recording of this workshop
+- [View on Youtube](https://youtu.be/HMCbVW6Zj3k)
 
 # UVA Library Workshop on Python Programming with Local LLMs and Agentic AI
 
